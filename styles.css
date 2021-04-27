@@ -20,14 +20,16 @@ header, footer, nav{
     grid-template-rows: auto;
     gap: 20px;
     height: 90vh;
-    
-    
+}
+
+.home_article{
+    width: 600px;
 }
 
 .profile_photo{
-    height:  340px;
-    width: 340px;
-    padding: 10px;
+    height:  240px;
+    width: 240px;
+    padding: 5px;
 
 }
 
@@ -85,8 +87,6 @@ header, footer, nav{
     padding-top: 10px;
     padding-bottom: 20px;
     text-align: center;
-    
-    
 }
 
 
